@@ -1,6 +1,6 @@
 # Conversational-RAG-for-Enterprise
 Overview
-This project presents an academic-focused implementation of an Enterprise Conversational Retrieval-Augmented Generation (RAG) system, developed to explore the practical application of large language models, semantic retrieval, and conversational AI in real-world settings.
+This project presents an implementation of an Enterprise Conversational Retrieval-Augmented Generation (RAG) system, developed to explore the practical application of large language models, semantic retrieval, and conversational AI in real-world settings.
 The system is designed as a learning and research artifact, emphasizing conceptual clarity, system design, and methodological rigor rather than purely product-oriented outcomes. It demonstrates how theoretical concepts in Natural Language Processing (NLP), Information Retrieval (IR), and Machine Learning (ML) can be integrated into a cohesive, scalable conversational system.
 ________________________________________
 Problem Statement
